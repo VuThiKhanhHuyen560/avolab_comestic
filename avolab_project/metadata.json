@@ -1,0 +1,8 @@
+{
+  "name": "AVOLAB Cosmetics",
+  "description": "Enterprise omnichannel ecosystem for AVOLAB COSMETICS backed by a centralized relational SQL database and real-time event streaming across Customers, Staff, and Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
